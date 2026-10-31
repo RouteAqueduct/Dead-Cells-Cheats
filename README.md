@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Dead-Cells-Cheats` · Updated: 2026-10-29
+`Dead-Cells-Cheats` · Updated: 2026-10-31
 
 **Tags:** `dead-cells` `roguelike` `metroidvania` `action` `indie`
